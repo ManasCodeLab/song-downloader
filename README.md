@@ -5,20 +5,18 @@
 ![GitHub forks](https://img.shields.io/github/forks/ManasCodeLab/song-downloader?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/ManasCodeLab/song-downloader)
 
-Song Downloader is a Python-based application that allows users to download songs from various sources. This tool provides an easy and efficient way to download your favorite tracks directly to your local storage.
+Song Downloader is a simple web application that allows users to download songs from various sources. This tool provides an easy and efficient way to download your favorite tracks directly to your local storage.
 
 ## Features
 
 - Download songs from multiple sources
 - Supports various audio formats
 - Simple and intuitive user interface
-- Cross-platform compatibility
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- Python 3.x installed on your computer
-- `pip` package manager
+- A web browser
 
 ## Installation
 
@@ -30,17 +28,10 @@ Before you begin, ensure you have met the following requirements:
     ```sh
     cd song-downloader
     ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
-1. Run the application:
-    ```sh
-    python main.py
-    ```
+1. Open the `index.html` file in your web browser.
 2. Follow the on-screen instructions to download songs.
 
 ## Contributing
